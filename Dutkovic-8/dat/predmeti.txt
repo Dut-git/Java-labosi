@@ -1,0 +1,41 @@
+1
+PR1
+Programiranje u jeziku Java
+7
+1
+1
+
+2
+PR2
+Algoritmi i strukture podataka
+5
+2
+1 2
+
+3
+PR3
+Arhitektura racunala
+5
+2
+2
+
+4
+PR4
+Vjerojatnost i statistika
+5
+3
+3
+
+5
+PR5
+Programiranje
+7
+3
+3 4
+
+6
+PR6
+Matematika I
+7
+4
+4

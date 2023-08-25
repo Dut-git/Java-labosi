@@ -1,0 +1,152 @@
+2022-11-22 17:44:28,009 ERROR [main] h.j.v.g.Glavna [Glavna.java:311] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: null
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:301)
+2022-11-22 17:44:32,737 ERROR [main] h.j.v.g.Glavna [Glavna.java:306] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:298)
+2022-11-22 17:44:42,507 ERROR [main] h.j.v.g.Glavna [Glavna.java:338] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 2 profesora!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:334)
+2022-11-22 17:44:50,290 ERROR [main] h.j.v.g.Glavna [Glavna.java:344] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:331)
+2022-11-22 17:45:25,005 ERROR [main] h.j.v.g.Glavna [Glavna.java:344] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:331)
+2022-11-22 17:45:57,560 ERROR [main] h.j.v.g.Glavna [Glavna.java:362] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:358)
+2022-11-22 17:46:00,561 ERROR [main] h.j.v.g.Glavna [Glavna.java:368] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:355)
+2022-11-22 17:47:54,285 ERROR [main] h.j.v.g.Glavna [Glavna.java:362] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:358)
+2022-11-22 17:48:12,884 ERROR [main] h.j.v.g.Glavna [Glavna.java:78] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.kreirajPredmet(Glavna.java:70)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:372)
+2022-11-22 17:48:16,799 ERROR [main] h.j.v.g.Glavna [Glavna.java:83] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: null
+	at hr.java.vjezbe.glavna.Glavna.kreirajPredmet(Glavna.java:73)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:372)
+2022-11-22 17:48:55,215 ERROR [main] h.j.v.g.Glavna [Glavna.java:78] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.kreirajPredmet(Glavna.java:70)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:372)
+2022-11-22 17:49:25,000 ERROR [main] h.j.v.g.Glavna [Glavna.java:394] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti maksimalno 3 studenta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:390)
+2022-11-22 17:49:32,731 ERROR [main] h.j.v.g.Glavna [Glavna.java:400] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:387)
+2022-11-22 17:50:12,295 ERROR [main] h.j.v.g.Glavna [Glavna.java:400] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:387)
+2022-11-22 17:50:58,392 ERROR [main] h.j.v.g.Glavna [Glavna.java:418] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 2 ispita!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:414)
+2022-11-22 17:51:00,061 ERROR [main] h.j.v.g.Glavna [Glavna.java:424] Pogresno unesen podatak!
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:411)
+2022-11-22 17:51:22,464 ERROR [main] h.j.v.g.Glavna [Glavna.java:219] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: null
+	at hr.java.vjezbe.glavna.Glavna.kreirajIspit(Glavna.java:209)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:428)
+2022-11-22 17:51:26,465 ERROR [main] h.j.v.g.Glavna [Glavna.java:214] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.kreirajIspit(Glavna.java:206)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:428)
+2022-11-22 17:51:34,913 ERROR [main] h.j.v.g.Glavna [Glavna.java:241] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: null
+	at hr.java.vjezbe.glavna.Glavna.kreirajIspit(Glavna.java:231)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:428)
+2022-11-22 17:51:38,185 ERROR [main] h.j.v.g.Glavna [Glavna.java:236] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.kreirajIspit(Glavna.java:228)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:428)
+2022-11-22 18:02:58,090 ERROR [main] h.j.v.g.Glavna [Glavna.java:522] Pogresno unesen podatak: 
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:943)
+	at java.base/java.util.Scanner.next(Scanner.java:1598)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2263)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2217)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:514)
+2022-11-24 00:55:38,539 ERROR [main] h.j.v.g.Glavna [Glavna.java:375] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:371)
+2022-11-24 11:28:11,913 ERROR [main] h.j.v.g.Glavna [Glavna.java:118] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: null
+	at hr.java.vjezbe.glavna.Glavna.kreirajPredmet(Glavna.java:105)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:386)
+2022-11-24 11:47:09,550 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:47:09,699 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:47:09,847 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:47:09,986 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:47:10,140 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:50:45,437 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 11:50:45,593 ERROR [main] h.j.v.g.Glavna [Glavna.java:367] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti minimalno 3 predmeta!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:363)
+2022-11-24 13:27:36,227 ERROR [main] h.j.v.g.Glavna [Glavna.java:386] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Morate unijeti predmet za svakog profesora!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:382)
+2022-11-24 13:45:47,833 ERROR [main] h.j.v.g.Glavna [Glavna.java:464] Pogresno unesen podatak: 
+hr.java.vjezbe.iznimke.NeispravanPodatakException: Barem jedan predmet mora imati dva ili vise studenata!
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:460)
